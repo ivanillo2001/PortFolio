@@ -7,5 +7,8 @@
 </head>
 <body>
     <h1>Ivan Jimenez</h1>
+    <?php
+    echo "Hola mundo"
+    ?>
 </body>
 </html>
