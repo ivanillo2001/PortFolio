@@ -1,0 +1,10 @@
+#cabecera{
+    text-align: center;
+    background-color: rgb(251, 249, 216);
+    width: 100%;
+    padding-top: 0;
+    height: 50px;
+}
+#nombre{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

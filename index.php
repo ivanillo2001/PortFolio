@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/style.css">
     <title>Welcome</title>
 </head>
 <body>
-    <h1>Ivan Jimenez</h1>
-    <?php
-    echo "Hola mundo"
-    ?>
+    <header id='cabecera'>
+        <h1 id='nombre'>Ivan Jimenez</h1>
+    </header>
 </body>
 </html>
